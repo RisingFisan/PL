@@ -1,0 +1,7 @@
+12-34-56-78 - válida
+45:85:47:01 - válida
+41...98...70...84 - válida
+12-4o-0h-78 - inválida, contém letras
+57:24-02:98 - inválida, contém separadores diferentes
+54...69...213...58 - inválida, contém um grupo de 3 dígitos
+00-00-00-00 - válida
